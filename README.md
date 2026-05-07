@@ -1,8 +1,25 @@
 # Simple Interest Calculator
 
-This project calculates simple interest using a Bash script.this is final github projrct
 
+A simple web-based Simple Interest Calculator built using HTML, CSS, and JavaScript.  
+This project helps users calculate Simple Interest quickly by entering Principal Amount, Rate of Interest, and Time.
 
-Formula:
-Simple Interest = (P × R × T) / 100
-updated typo fix
+## 🚀 Features
+
+- Calculate Simple Interest instantly
+- Easy-to-use interface
+- Responsive design
+- Clear input fields
+- Fast and lightweight project
+
+## 🧮 Formula Used
+
+Simple Interest is calculated using:
+
+SI = (P × R × T) / 100
+
+Where:
+- P = Principal Amount
+- R = Rate of Interest
+- T = Time
+
